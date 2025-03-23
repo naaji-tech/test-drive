@@ -98,8 +98,8 @@ void main() {
       title: 'Shopping App',
       home: ShoppingList(
         products: [
-          Product(name: 'Eggs'), 
-          Product(name: 'Flour'), 
+          Product(name: 'Eggs'),
+          Product(name: 'Flour'),
           Product(name: 'ChocololateChips'),
         ],
       ),
